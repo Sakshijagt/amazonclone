@@ -1,0 +1,7 @@
+com\mycompany\amazonclone\entities\User.class
+com\mycompany\amazonclone\dao\UserDao.class
+com\mycompany\amazonclone\entities\Product.class
+com\mycompany\amazonclone\helper\FactoryProvider.class
+com\mycompany\amazonclone\servlets\LoginServlet.class
+com\mycompany\amazonclone\entities\Category.class
+com\mycompany\amazonclone\servlets\ResgisterServlet.class
